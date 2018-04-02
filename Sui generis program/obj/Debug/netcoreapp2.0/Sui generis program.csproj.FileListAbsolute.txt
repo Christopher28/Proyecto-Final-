@@ -1,0 +1,10 @@
+C:\Users\christopher\Desktop\Sui generis program\bin\Debug\netcoreapp2.0\Sui generis program.deps.json
+C:\Users\christopher\Desktop\Sui generis program\bin\Debug\netcoreapp2.0\Sui generis program.runtimeconfig.json
+C:\Users\christopher\Desktop\Sui generis program\bin\Debug\netcoreapp2.0\Sui generis program.runtimeconfig.dev.json
+C:\Users\christopher\Desktop\Sui generis program\bin\Debug\netcoreapp2.0\Sui generis program.dll
+C:\Users\christopher\Desktop\Sui generis program\bin\Debug\netcoreapp2.0\Sui generis program.pdb
+C:\Users\christopher\Desktop\Sui generis program\obj\Debug\netcoreapp2.0\Sui generis program.csproj.CoreCompileInputs.cache
+C:\Users\christopher\Desktop\Sui generis program\obj\Debug\netcoreapp2.0\Sui generis program.AssemblyInfoInputs.cache
+C:\Users\christopher\Desktop\Sui generis program\obj\Debug\netcoreapp2.0\Sui generis program.AssemblyInfo.cs
+C:\Users\christopher\Desktop\Sui generis program\obj\Debug\netcoreapp2.0\Sui generis program.dll
+C:\Users\christopher\Desktop\Sui generis program\obj\Debug\netcoreapp2.0\Sui generis program.pdb
