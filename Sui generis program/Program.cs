@@ -76,7 +76,7 @@ namespace Sui_generis_program
             //Dara Reyes               17-EIIN-1-005
             //Vicente Mariño           17-EIIT-1-042
             //Elias Matos              17-EIIT-1-047
-            //Elaine Rodriguez         17-EIIT-1-005
+            //Elaine Rodriguez         17-EIIT-1-003
         
         }
     }
